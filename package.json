@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "enmap": "^4.3.0",
+    "mongoose": "^5.3.2",
+    "ms": "^2.1.1",
+    "nodemon": "^1.18.4",
+    "opusscript": "0.0.6",
+    "profanities": "^2.6.0",
+    "quick.hook": "^1.4.2",
+    "simple-youtube-api": "^5.0.2",
+    "urban": "^0.3.2",
+    "ytdl-core": "^0.26.0"
+  }
+}
